@@ -113,7 +113,61 @@ h1,h2,h3{
 }
 .italian{
     width: 50%;
+
 }
+
+.steak{
+    background-image: url(./resources/pork.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 300px;
+    width:300px;
+    background-size: cover; 
+    border-radius: 20px;
+}
+
+.italyres{
+    color: rgb(81, 3, 3);
+    font-family: cursive;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}
+.wel{
+    font-size: 60px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+.steakp{
+    color: gray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.story{
+    color:gray;
+    font-size: 12px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: center;
+    align-self: center;
+}
+
+.arrow{
+    background-image: url(./resources/arrow.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 16px;
+    width: 16px;
+}
+
+
+
+
+
+
 
 
 
