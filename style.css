@@ -58,7 +58,7 @@ a:hover{
     flex-direction: column;
     align-items: center;
     gap: 30px;
-    background-image: url(./resources/navbar.jpg);
+    background-image: url(./image/navbar.webp);
     background-color: black;
     background-repeat: no-repeat;
     background-position: center;
@@ -117,7 +117,7 @@ h1,h2,h3{
 }
 
 .steak{
-    background-image: url(./resources/pork.jpg);
+    background-image: url(./image/pork.webp);
     background-repeat: no-repeat;
     background-position: center;
     height: 300px;
@@ -156,7 +156,7 @@ h1,h2,h3{
 }
 
 .arrow{
-    background-image: url(./resources/arrow.png);
+    background-image: url(./image/arrow.webp);
     background-repeat: no-repeat;
     background-size: contain;
     height: 16px;
@@ -164,7 +164,7 @@ h1,h2,h3{
 }
 
 .discoverplace{
-    background-image: url(./resources/discover4.jpg);
+    background-image: url(./image/discover4.webp);
     background-repeat: no-repeat;
     background-size: cover;
     height: 350px;
@@ -209,7 +209,7 @@ h1,h2,h3{
 .romanticpic{
     height: 200px;
     width: 350px;
-    background-image: url(./resources/romantic.webp);
+    background-image: url(./image/romantic.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -240,7 +240,7 @@ h1,h2,h3{
 .deliciouspic{
     height: 200px;
     width: 350px;
-    background-image: url(./resources/delicious.webp);
+    background-image: url(./image/delicious.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -254,7 +254,7 @@ h1,h2,h3{
 .redpic{
     height: 200px;
     width: 350px;
-    background-image: url(./resources/red.webp);
+    background-image: url(./image/red.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 20px;
@@ -304,7 +304,7 @@ font-weight: 500;
 .lunch{
     height: 450px;
     width: 350px;
-    background-image: url(./resources/lunch.webp);
+    background-image: url(./image/lunch.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
@@ -335,7 +335,7 @@ font-weight: 500;
 .dinner{
     height: 450px;
     width: 350px;
-    background-image: url(./resources/dinner.webp);
+    background-image: url(./image/dinner.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
@@ -358,7 +358,7 @@ font-weight: 500;
 .drink{
     height: 200px;
     width: 350px;
-    background-image: url(./resources/drink.webp);
+    background-image: url(./image/drink.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
@@ -374,7 +374,7 @@ font-weight: 500;
  .starter{
     height: 200px;
     width: 350px;
-    background-image: url(./resources/startter.webp);
+    background-image: url(./image/startter.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
@@ -397,7 +397,7 @@ font-weight: 500;
 .happy {
 height: 200px;
 width: 750px;
-background-image: url(./resources/happy.webp);
+background-image: url(./image/happy.webp);
 background-repeat: no-repeat;
 background-size: cover;
 border-radius: 10px;
@@ -414,7 +414,7 @@ transform: scale(0.9);
 .dessert {
     height: 200px;
     width: 350px;
-    background-image: url(./resources/dessert.webp);
+    background-image: url(./image/dessert.webp);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
